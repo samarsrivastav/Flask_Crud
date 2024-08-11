@@ -12,7 +12,7 @@
 ### 1. Clone the Repository
  - go to any directory and open terminal there
  - use the code:
-    ``` git clone https://github.com/samarsrivastav/Flask_Crud ```
+    ``` git clone https://github.com/samarsrivastav/Flask_Crud ``` <br>
     ``` cd Flask_Crud ```
 
 ### 2. Build the docker file
@@ -25,7 +25,7 @@
 
 ### 4. Testing of the Crud application
  -  POST Request to Add a User
-    To add a user, send a POST request to http://localhost:8080/user with your JSON body:
+    To add a user, send a POST request to http://localhost:8080/user with your JSON body: <br>
     example:
     {
         "name":"test-user",
