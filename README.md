@@ -11,13 +11,13 @@
 
 ### 1. Clone the Repository
  - go to any directory and open terminal there
- - use the code:
+ - use the code:<br>
     ``` git clone https://github.com/samarsrivastav/Flask_Crud ``` <br>
     ``` cd Flask_Crud ```
 
 ### 2. Build the docker file
 - The above project is cloned and you are inside the project
-- use the below code to build the docker image
+- use the below code to build the docker image<br>
     ``` docker-compose build ```
 
 ### 3. Start the docker container
