@@ -2,8 +2,6 @@
 
 ## Steps to run the application in local machine 
 
-Assignment: Flask Application for CRUD operations on MongoDB
-
 
 ## Prerequisites
 
@@ -12,18 +10,18 @@ Assignment: Flask Application for CRUD operations on MongoDB
 ## Setup and Running
 
 ### 1. Clone the Repository
-    - go to any directory and open terminal there
-    - use the code:
+ - go to any directory and open terminal there
+ - use the code:
     ``` git clone https://github.com/samarsrivastav/Flask_Crud ```
     ``` cd Flask_Crud ```
 
 ### 2. Build the docker file
-    - The above project is cloned and you are inside the project
-    - use the below code to build the docker image
+- The above project is cloned and you are inside the project
+- use the below code to build the docker image
     ``` docker-compose build ```
 
 ### 3. Start the docker container
-    ``` docker-compose up ```
+``` docker-compose up ```
 
 ### 4. Testing of the Crud application
  -  POST Request to Add a User
