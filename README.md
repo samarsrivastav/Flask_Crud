@@ -1,7 +1,16 @@
 # Flask CRUD Application with MongoDB
+## File Structure
 
+- app/__init__.py: Initializes the Flask app and configures the application.
+- app/api/users.py: Contains routes and logic for user CRUD operations.
+- app/config.py: Configuration settings for the application.
+- run.py: Entry point for running the Flask application.
+- Dockerfile: Defines the Docker image for the application.
+- docker-compose.yml: Defines services, including Flask and MongoDB, and their configurations.
+- requirements.txt: Lists Python dependencies for the project.
+
+  
 ## Steps to run the application in local machine 
-
 
 ## Prerequisites
 
